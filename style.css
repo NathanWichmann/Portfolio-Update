@@ -1,6 +1,4 @@
 * {
-    padding: 0;
-    margin: 0;
     line-height: 1.5em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 /*background color of entire site*/
@@ -10,27 +8,39 @@ body {
 }
 /*style for the nav ul section of the links */
 nav ul {
-    
     list-style-type: none;
-    margin: 1%;
-    padding: 1%;
-    width: px;
     background-color: lightgray;
-    font-size: 40px;
+    font-size: 25px;
   }
+
+a img {
+    width:100%;
+    height: 60%;
+}
+.center {
+    width: 100%;
+    height: 20%;
+
+}
+ul li a {
+    list-style-type: none;
+}
+
 /*style and color for for the links*/
 li a {
-    display: block;
+    
+    display: flex;
+    flex-direction: row;
     color: rgb(167, 104, 23);
     padding: 4px 16px;
     text-decoration: none;
   }
-/*used to select and style the active link  */
+
 li a.active {
     background-color:rgb(43, 114, 158);
     color: white;
   }
-/* link changes color once hover over it to white text and gray box */
+
 li a:hover:not(.active) {
     background-color: gray;
     color: white;
@@ -40,26 +50,20 @@ h1 {
     display: flex;
     justify-content: center;
     color: rgb(43, 114, 158);
-    font-size: 50px;
-    margin:1%;
-    border: 1%;
-    padding: 1%;
+    font-size: 40px;
 }
 /*  centered, coloring and gives space to the headings*/
 h2  {
     display: flex;
     justify-content: center;
     color: rgb(43, 114, 158);
-    font-size: 40px;
     margin: 1%;
     border: 1%;
     padding: 1%;
 }
 /*coloring and gives space to the headings*/
-h3 {
-    
+h4 {
     color: rgb(43, 114, 158);
-    font-size: 30px;
     margin: 1%;
     border: 1%;
     padding: 1%;
@@ -73,41 +77,21 @@ h3 {
 .mann  {
     color: rgb(167, 104, 23);
 }
-/* used to syle the coding picture */
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    border: 2%;
-    padding:2%;
-}
 /*used to change the color and size of hello world*/
 .hello {
     color: rgb(43, 114, 158);
-    font-size: 30px;
+    font-size: 25px;
 
 }
 /* used to style the about me paragraph*/
 p {
     display:inline-block;
     color: rgb(167, 104, 23);  
-    font-size: 25px;
+    font-size: 20px;
     border: 2%;
     padding: 2%; 
 }
-/*used to style the picture of channing */
-#picture  {
-    float: left;
-    border: 2%;
-    padding: 2%; 
-}
-/*used to style the footer section*/
-.container {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
+
 /*section of recent work*/
 .work {
     position: relative;
@@ -118,114 +102,40 @@ p {
     padding: 1%;
 }
 
+.navTag {
+    list-style-type: none;
+    align-content: center;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-    h1 {
-        display: flex;
-        justify-items: center;
-        color: rgb(43, 114, 158);
-        font-size: 50px;
-        margin:1%;
-        border: 1%;
-        padding: 1%;
-    }
-    nav ul {
-    
-        list-style-type: none;
-        margin: 1%;
-        padding: 1%;
-        width: 1%;
-        background-color: lightgray;
-        font-size: 40px;
-      }
+   
     
 
 }
   
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-    h1 {
-        display: flex;
-        justify-items: center;
-        color: rgb(43, 114, 158);
-        font-size: 50px;
-        margin:1%;
-        border: 1%;
-        padding: 1%;
-    }
-    nav ul {
-    
-        list-style-type: none;
-        margin: 1%;
-        padding: 1%;
-        width: 1%;
-        background-color: lightgray;
-        font-size: 40px;
-      }
+   
     
 }
   
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-    h1 {
-        display: flex;
-        justify-items: center;
-        color: rgb(43, 114, 158);
-        font-size: 50px;
-        margin:1%;
-        border: 1%;
-        padding: 1%;
-    }
-    nav ul {
     
-        list-style-type: none;
-        margin: 1%;
-        padding: 1%;
-        width: 1%;
-        background-color: lightgray;
-        font-size: 40px;
-      }
     
 } 
   
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-    h1 {
-        display: flex;
-        justify-items: center;
-        color: rgb(43, 114, 158);
-        font-size: 50px;
-        margin:1%;
-        border: 1%;
-        padding: 1%;
-    }
-    nav ul {
-    
-        list-style-type: none;
-        margin: 1%;
-        padding: 1%;
-        width: 1%;
-        background-color: lightgray;
-        font-size: 40px;
-      }
+   
     
 } 
   
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-    h1 {
-        display: flex;
-        justify-items: center;
-        color: rgb(43, 114, 158);
-        font-size: 50px;
-        margin:1%;
-        border: 1%;
-        padding: 1%;
-    }
+    
 
 }
 
-img {
-    width: 40%;
-    height: auto;
-}
+
