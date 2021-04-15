@@ -41,4 +41,5 @@ top of the screen. I decided to add a picture of just how I feel doing this cour
 This time around I was able to add many more features to the website. I took advantage of the grid code on the bootstrap website which made the appearence even more pleasing to the eye. I was able to update the overall effectivness of the website by having everything in their appropriate sections, instead of in a line down the left hand side. The overall process of making and designing a website is so much faster and more effient when tools such as Bootstrap are introduced. 
 
 # Screenshot
-![screenshot](./screenshot.png)
+<img src="https://user-images.githubusercontent.com/77902368/114904271-ae2a2000-9de5-11eb-99af-8f4e78812f52.png" alt="Screenshot"> 
+
