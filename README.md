@@ -25,6 +25,12 @@ THEN I am taken to that deployed application<br>
 WHEN I resize the page or view the site on various screens and devices<br>
 THEN I am presented with a responsive layout that adapts to my viewport<br>
 
+# Updated Acceptance Criteria 
+Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.<br>
+Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.<br>
+Submit an updated resume<br>
+Submit an updated LinkedIn profile<br>
+
 # Installation 
 Making the website was so much fun. I decided not to use the exact make-up of the portfolio offered as it was not that aesthetically pleasing.
 I decided to be more creative and use a theme through-out the website. I used the same colors from the visual studio code, coding screen on the site. 
