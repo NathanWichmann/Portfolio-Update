@@ -7,7 +7,7 @@ accomplished.
 
 # Assignment
 This assignment was designed for the class to demonstrate our work to a potential hiring manager. Being that this is the beginning of the course, there are only a couple 
-projects added. There will be many more added through-out the course.
+projects added. There will be many more added through-out the course. There is a total of 5 assignments and one group project added so far. 
 
 # Acceptance Criteria 
 <copied from the homework assignment directly>
@@ -34,8 +34,10 @@ Submit an updated LinkedIn profile<br>
 # Installation 
 Making the website was so much fun. I decided not to use the exact make-up of the portfolio offered as it was not that aesthetically pleasing.
 I decided to be more creative and use a theme through-out the website. I used the same colors from the visual studio code, coding screen on the site. 
-I remembered the <span> element used in the first homework assignment and decided to use it here. I used it to change the colors of my name on 
-top of the screen. I decided to add a picture of just how I feel doing this course, outside my comfort zone. There is a picture of myself and all links work. 
+Since the first iteration of this assignment, I decided to add bootstrap to the coding. Bootstrap allows for easier grid work and better layout of the code.
+I added some new pictures for the assignment but kept the overall feel and design of the website. I wanted it to be original and outside the normal standard 
+personal biographies. I added many new features to my GitHub account. The first page has more information about me and looks more robust with pinned work added. 
+I also added more information to my Linkedin page about this course and updated my resume to reflect the same. I added the languages we have learnt up to date. 
 
 # What I Learnt 
 This time around I was able to add many more features to the website. I took advantage of the grid code on the bootstrap website which made the appearence even more pleasing to the eye. I was able to update the overall effectivness of the website by having everything in their appropriate sections, instead of in a line down the left hand side. The overall process of making and designing a website is so much faster and more effient when tools such as Bootstrap are introduced. 
