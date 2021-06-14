@@ -1,6 +1,6 @@
 # Portfolio-Update
 
-# Deployed website Link <a href="https://nathanwichmann.github.io/Portfolio-Update/">Portfolio</a>
+# Deployed Link <a href="https://nathanwichmann.github.io/Portfolio-Update/">Portfolio</a>
 This repository (Personal Portfolio) is an educational homework assignment from CARL-OTT-FSF-PT-02-20121-U-C coding boot-camp. It combines our knowledge of 
 html5 and CSS together to create a personal portfolio that we can use through-out the course and after we graduate to show potential employers what we have 
 accomplished. 
@@ -10,7 +10,6 @@ This assignment was designed for the class to demonstrate our work to a potentia
 projects added. There will be many more added through-out the course. There is a total of 5 assignments and one group project added so far. 
 
 # Acceptance Criteria 
-<copied from the homework assignment directly>
 GIVEN I need to sample a potential employee's previous work<br>
 WHEN I load their portfolio<br>
 THEN I am presented with the developer's name, a recent photo, and links to sections about them, their work, and how to contact them<br>
