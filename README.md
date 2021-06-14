@@ -2,12 +2,11 @@
 
 # Deployed Link <a href="https://nathanwichmann.github.io/Portfolio-Update/">Portfolio</a>
 This repository (Personal Portfolio) is an educational homework assignment from CARL-OTT-FSF-PT-02-20121-U-C coding boot-camp. It combines our knowledge of 
-html5 and CSS together to create a personal portfolio that we can use through-out the course and after we graduate to show potential employers what we have 
+html5 and CSS3 together to create a personal portfolio that we can use through-out the course and after we graduate to show potential employers what we have 
 accomplished. 
 
 # Assignment
-This assignment was designed for the class to demonstrate our work to a potential hiring manager. Being that this is the beginning of the course, there are only a couple 
-projects added. There will be many more added through-out the course. There is a total of 5 assignments and one group project added so far. 
+This assignment was designed for the class to demonstrate our work to a potential hiring manager. Although, this website is simplistic in nature, it does show how far the journey has been, through the deployed work. In the bebining of the course, it took all my effort just to make this site and understand the terminology. That has changed, what once took me hours to change on this site, now takes a matter of minutes and I was even able to clean up the code from the begining of the course. 
 
 # Acceptance Criteria 
 GIVEN I need to sample a potential employee's previous work<br>
@@ -39,7 +38,7 @@ personal biographies. I added many new features to my GitHub account. The first 
 I also added more information to my Linkedin page about this course and updated my resume to reflect the same. I added the languages we have learnt up to date. 
 
 # What I Learnt 
-This time around I was able to add many more features to the website. I took advantage of the grid code on the bootstrap website which made the appearence even more pleasing to the eye. I was able to update the overall effectivness of the website by having everything in their appropriate sections, instead of in a line down the left hand side. The overall process of making and designing a website is so much faster and more effient when tools such as Bootstrap are introduced. 
+Although, this website is simplistic in nature, it does show how far the journey has been, through the deployed work. In the begining of the course, it took all my effort just to make this site and understand the terminology. That has changed, what once took me hours to change on this site, now takes a matter of minutes and I was even able to clean up the code from the begining of the course. 
 
 # Screenshot
 <img src="https://user-images.githubusercontent.com/77902368/114904271-ae2a2000-9de5-11eb-99af-8f4e78812f52.png" alt="Screenshot"> 
