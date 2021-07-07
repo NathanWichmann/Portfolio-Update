@@ -29,6 +29,11 @@ ul li a {
     list-style-type: none;
 }
 
+a {
+    color: rgb(167, 104, 23);
+   text-decoration: none;
+ }
+
 /*style and color for for the links*/
 li a {
      display: flex;
